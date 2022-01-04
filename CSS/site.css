@@ -52,10 +52,10 @@ main>.container {
     color:orangered;
 }
 .cssicon{
-    color:blue
+    color:blue;
 }
 .checklist >li i{
-    color: var(--primary-color);
+    color: var(--secondary-color);
 }
 
 code[class*="language-"],
